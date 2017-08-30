@@ -1,0 +1,58 @@
+#PREWORK_REVIEW 1.1 - Intro to prework review
+#PREWORK_REVIEW 1.2 - Set up your coding environment on your computer installed - chrome, atom, git.
+#PREWORK_REVIEW 1.3 - Built folder for all coding projects and a template for new coding projects
+#PREWORK_REVIEW 1.4 - HTML and CSS concepts to remember
+#PREWORK_REVIEW 1.5 - completed codecademy HTML & CSS to 100% and read all external readings - links in descriptions
+#PREWORK_REVIEW 1.6 - Logo website replica
+#PREWORK_REVIEW 1.7 - uploaded 3 projects to GitHub that we built together.
+#PREWORK_REVIEW 1.8 - Go back if anything was unfamiliar
+#PREWORK_REVIEW 1.9 - Otherwise move on to the next video
+
+
+
+#PREWORK_REVIEW 1.1 - Intro to prework review
+Hey Chris from Codify Academy here, I want to do a quick review of what we've done so far.
+
+#PREWORK_REVIEW 1.2 - Set up your coding environment on your computer installed - chrome, atom, git.
+We started by setting up our coding environment - we download Google Chrome for a web browser, Atom the text editor, Git for version control and we signed up for GitHub.
+
+#PREWORK_REVIEW 1.3 - Built folder for all coding projects and a template for new coding projects
+Once we had the tools to code, we created files and folder structure for the course and we created a template folder that we're going to use for new projects
+
+#PREWORK_REVIEW 1.4 - HTML and CSS concepts to remember
+We then saw some HTML and CSS concept and built a basic website called codefun1
+
+Some Things to remember for HTML
+we create elements aka tags in a .html file which are used to display words and images on a webpage
+Each element usually has a start tag and a end tag
+Some elements only have a start tag and are known as void tags.
+Attributes are added to the start tag of an element
+and are always set equal to quotes and then have a value inside the quotes.
+Here are a few examples of some elements with attributes.
+
+Some Things to remember for CSS
+selectors are added in a .css file to choose HTML elements from a .html file so we can style them
+we follow selectors with curly brackets
+There are many different CSS selectors
+so far we've selected html elements by tag name,
+we've selected by class, we use a period followed by the value of a class attribute,
+we've selected by id, we use a hash followed by the value of a id attribute,
+and we saw how to use multiple selectors at once.
+
+Once we have some HTML selected we can add property and value pairs to change how those element or elements look.
+and there is no limit to the amount of properties added to a selector.
+
+
+#PREWORK_REVIEW 1.5 - completed codecademy
+Next you should have completed the codecademy Learn HTML and CSS Part 1 interactive lessons, and read the external readings.
+
+#PREWORK_REVIEW 1.6 - Logo website replica -
+Hopefully after codecademy you followed along with the video to build the logo website replication.
+
+#PREWORK_REVIEW 1.7 - uploaded 3 projects to GitHub that we built together.
+And then pushed the 3 projects we built together template, Codefun1 and Logo to GitHub using Git
+
+#PREWORK_REVIEW 1.8 - Go back if anything was unfamiliar
+And if you didn't do one or more of these, thats ok, check out the video description for links to what you need.
+
+#PREWORK_REVIEW 1.9 - Otherwise hopefully familiar with these concepts, you built and loaded your projects to GitHub. that means we can move on to the next video and learn some more.
